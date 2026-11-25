@@ -1,0 +1,13 @@
+============================================================
+System Info | Name: Yasesh Kumar | Roll No: 2601730181 | Date: Wed Nov 25 15:58:39 UTC 2026
+============================================================
+CPU Model : Intel(R) Core(TM) Ultra 5 325
+CPU Cores : 8
+Memory    : Total: 7.5Gi | Used: 531Mi
+
+Top 3 Processes by CPU Usage:
+    748 head             0.0
+    747 sort             0.0
+    746 ps               0.0
+============================================================
+Report generated successfully.
